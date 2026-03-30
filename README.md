@@ -55,8 +55,6 @@ Simplifies nutrition understanding without medical complexity
 Builds sustainable habits instead of short-term diets
 Creates a community-driven approach to wellness
 
-Conclusion
-FoodIQ redefines nutrition tracking by combining AI intelligence, transparency, and social inspiration. By transforming everyday meals into meaningful health insights and positive social signals, the platform empowers users to make better food choices consistently and confidently.
 
 
 Conclusion:
