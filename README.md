@@ -1,4 +1,4 @@
-#My Project
+#My project
 HealthBite – AI-Powered Social Nutrition Intelligence Platform
 
 Background:
